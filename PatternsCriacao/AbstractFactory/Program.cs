@@ -6,7 +6,8 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Carro c1 = ExecutaAbstractFactory.montarCarro("luxo");
+            Carro c2 = ExecutaAbstractFactory.montarCarro("popular");
         }
     }
 }
