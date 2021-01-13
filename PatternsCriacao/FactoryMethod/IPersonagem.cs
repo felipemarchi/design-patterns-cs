@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Factory
+namespace FactoryMethod
 {
     public interface IPersonagem
     {

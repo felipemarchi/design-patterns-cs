@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Factory
+namespace FactoryMethod
 {
     public class FactoryMethod
     {
