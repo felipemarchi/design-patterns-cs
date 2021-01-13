@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{0966E9CC-D967-44E6-B950-20DE58379278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{0966E9CC-D967-44E6-B950-20DE58379278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{BE1783A6-9D3A-4ABE-A001-526E07A599CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{BE1783A6-9D3A-4ABE-A001-526E07A599CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{5AB4FAA5-466E-4A89-864C-4EA395402008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{5AB4FAA5-466E-4A89-864C-4EA395402008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{F6EE8C26-9785-4A05-A079-9E453345FF0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5AB4FAA5-466E-4A89-864C-4EA395402008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AB4FAA5-466E-4A89-864C-4EA395402008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AB4FAA5-466E-4A89-864C-4EA395402008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EE8C26-9785-4A05-A079-9E453345FF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EE8C26-9785-4A05-A079-9E453345FF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EE8C26-9785-4A05-A079-9E453345FF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EE8C26-9785-4A05-A079-9E453345FF0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
