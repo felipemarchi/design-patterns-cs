@@ -6,6 +6,8 @@ Padrões de projeto são soluções típicas para problemas comuns em projeto de
 
 Este repositório clonado e editado, visa contribuir com a compilação de conteúdos em português sobre Padrões de Projetos em C#. Ao passo que também disponibiliza um mapa mental com 24 padrões de projetos classificados com descrições, exemplos e trechos de implementações.
 
+![Classificação dos Padrões de Projetos](https://github.com/felipemarchi/design-patterns-cs/blob/master/img/designpatterns.png "Classificação dos Padrões de Projetos")
+
 ## Links e Materiais Originais
 - [Mapa Mental](http://mm.tt/map/2275343653) desenvolvido para organizar o conhecimento sobre Padrões de Projetos e facilitar consultas futuras
 - [Documentação completa sobre Padrões de Projetos](https://refactoring.guru/pt-br/design-patterns) com exemplos de código
